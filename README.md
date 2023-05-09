@@ -11,5 +11,6 @@ Here, we try to structure all such resources, and you can refer them in order to
 
 Before submitting a pull request:
 - Refer the folder structure, arranged in domains and levels. Include DD/MM/YY format in the filename.
+- If possible, mention the event you were speaking at, or the occasion you used the slide for, in either filename or first slide.
 - In case of non-ppt resources, refer 'other_resources'
 
